@@ -48,8 +48,6 @@ public class BaseActivity extends Activity {
 	protected EditText mNumberEditText;
 	/** 选择联系人 */
 	protected Button mSelectContactBtn;
-	/** 打开灵犀 */
-	protected Button mOpenLingxiBtn;
 
 	protected List<String> mNumbers;
 	protected List<String> mSelectedNumbers;
