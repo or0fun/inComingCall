@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">模拟来电来信</string>
+    
+    <string name="call_title">模拟来电</string>
+    <string name="sms_title">模拟来信</string>
+    
+    <string name="enter_call_title">进入模拟来电</string>
+    <string name="enter_sms_title">进入模拟来信</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="openLingxi">打开应用</string>
+    <string name="inputNumber">输入号码</string>
+    <string name="inputContent">可变更短信内容</string>
+    <string name="ringing">来电 - 弹窗显示</string>
+    <string name="idle">挂断 - 弹窗消失</string>
+    <string name="select">选择联系人</string>
+    <string name="send">来信 - 弹窗显示</string>
+
+</resources>
